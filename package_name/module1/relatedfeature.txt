@@ -1,0 +1,1 @@
+This file contains a feature related to feature.txt in module1.
